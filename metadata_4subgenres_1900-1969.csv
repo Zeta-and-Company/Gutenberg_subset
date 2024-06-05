@@ -1,4 +1,4 @@
-id	title	author	authoryearofbirth	authoryearofdeath	subgenre	historical	scifi	lovestory	detective	downloads	type	subjects	language	length
+idno	title	author	authoryearofbirth	authoryearofdeath	subgenre	historical	scifi	lovestory	detective	downloads	type	subjects	language	length
 PG67266	Dogs Always Know	Holding, Elisabeth Sanxay	1889	1955	lovestory	no	no	yes	no	38	Text	{'Dogs -- Fiction', 'Boardinghouses -- Fiction', 'Man-woman relationships -- Fiction', 'Love stories'}	['en']	10008
 PG61481	Silence is—Deadly	Shurtleff, Bertrand	1897	1967	scifi	no	yes	no	no	21	Text	{'United States. Navy -- Fiction', 'Radio -- Fiction', 'Inventors -- Fiction', 'Science fiction', 'World War, 1939-1945 -- Naval operations -- Fiction'}	['en']	10008
 PG49651	Tedric	Smith, E. E. (Edward Elmer)	1890	1965	scifi	no	yes	no	no	78	Text	{'Time -- Fiction', 'Blacksmiths -- Fiction', 'Science fiction', 'Short stories'}	['en']	10065
