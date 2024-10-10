@@ -8,3 +8,5 @@ This is a selected subset of the [Gutenberg corpus](https://github.com/pgcorpus/
   - historical fiction
   - love story
   - detective fiction
+
+In addtion, topic models are trained on the subset using MALLET and the distinctive topics for each subgenres are identified using the Welch's T-Test. 
