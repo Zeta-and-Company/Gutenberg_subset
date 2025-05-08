@@ -9,4 +9,6 @@ This is a selected subset of the [Gutenberg corpus](https://github.com/pgcorpus/
   - love story
   - detective fiction
 
+Note that the number of novels per subgenre is not balanced. 
+
 In addtion, topic models are trained on the subset using MALLET and the distinctive topics for each subgenres are identified using the Welch's T-Test. 
